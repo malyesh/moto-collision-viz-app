@@ -12,7 +12,7 @@ class Map extends React.Component {
       lat: 40.785091,
       lng: -73.968285,
       zoom: 11,
-      //   pitch: 70,
+      pitch: 70,
     };
     this.mapContainer = React.createRef();
   }
@@ -24,7 +24,7 @@ class Map extends React.Component {
       style: 'mapbox://styles/mapbox/streets-v11',
       center: [lng, lat],
       zoom: zoom,
-      //   pitch: pitch,
+      pitch: pitch,
     });
 
     // this.map.on('load', () => {
