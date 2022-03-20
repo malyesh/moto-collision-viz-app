@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moto-collision-viz-app/static/css/main.a2fe1b13.css",
-    "main.js": "/moto-collision-viz-app/static/js/main.adaa18c8.js",
+    "main.css": "/moto-collision-viz-app/static/css/main.d465f6ed.css",
+    "main.js": "/moto-collision-viz-app/static/js/main.9169748f.js",
     "static/js/787.e1c190c3.chunk.js": "/moto-collision-viz-app/static/js/787.e1c190c3.chunk.js",
     "index.html": "/moto-collision-viz-app/index.html",
-    "main.a2fe1b13.css.map": "/moto-collision-viz-app/static/css/main.a2fe1b13.css.map",
-    "main.adaa18c8.js.map": "/moto-collision-viz-app/static/js/main.adaa18c8.js.map",
+    "main.d465f6ed.css.map": "/moto-collision-viz-app/static/css/main.d465f6ed.css.map",
+    "main.9169748f.js.map": "/moto-collision-viz-app/static/js/main.9169748f.js.map",
     "787.e1c190c3.chunk.js.map": "/moto-collision-viz-app/static/js/787.e1c190c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2fe1b13.css",
-    "static/js/main.adaa18c8.js"
+    "static/css/main.d465f6ed.css",
+    "static/js/main.9169748f.js"
   ]
 }
