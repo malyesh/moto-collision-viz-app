@@ -1,8 +1,8 @@
 import React from 'react';
 import mapboxgl from '!mapbox-gl'; // eslint-disable-line import/no-webpack-loader-syntax
-import Navbar from './Navbar';
-import * as Papa from 'papaparse';
-import csvFilePath from './crashes.csv';
+// import Navbar from './Navbar';
+// import * as Papa from 'papaparse';
+// import csvFilePath from './crashes.csv';
 // import myData from './crashes2.json';
 import myData from './crashes.json';
 
