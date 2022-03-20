@@ -14,6 +14,7 @@ const routing = (
   <BrowserRouter>
     <Routes>
       {/* <Route exact path='/' element={App} /> */}
+      <Route path='/moto-collision-viz-app' element={<App />} exact />
       <Route path='/' element={<App />} exact />
       <Route path='/mapPage' element={<Map />} exact />
       <Route path='/graphPage' element={<GraphPage />} exact />
