@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moto-collision-viz-app/static/css/main.a2fe1b13.css",
+    "main.js": "/moto-collision-viz-app/static/js/main.adaa18c8.js",
+    "static/js/787.e1c190c3.chunk.js": "/moto-collision-viz-app/static/js/787.e1c190c3.chunk.js",
+    "index.html": "/moto-collision-viz-app/index.html",
+    "main.a2fe1b13.css.map": "/moto-collision-viz-app/static/css/main.a2fe1b13.css.map",
+    "main.adaa18c8.js.map": "/moto-collision-viz-app/static/js/main.adaa18c8.js.map",
+    "787.e1c190c3.chunk.js.map": "/moto-collision-viz-app/static/js/787.e1c190c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2fe1b13.css",
+    "static/js/main.adaa18c8.js"
+  ]
+}
