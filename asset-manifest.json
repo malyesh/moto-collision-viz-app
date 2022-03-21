@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/moto-collision-viz-app/static/css/main.d465f6ed.css",
-    "main.js": "/moto-collision-viz-app/static/js/main.355621e1.js",
+    "main.css": "/moto-collision-viz-app/static/css/main.015f3162.css",
+    "main.js": "/moto-collision-viz-app/static/js/main.94a9276d.js",
     "static/js/787.e1c190c3.chunk.js": "/moto-collision-viz-app/static/js/787.e1c190c3.chunk.js",
     "static/media/crashes.geojson": "/moto-collision-viz-app/static/media/crashes.bdecf4b0988152c68ffe.geojson",
     "index.html": "/moto-collision-viz-app/index.html",
-    "main.d465f6ed.css.map": "/moto-collision-viz-app/static/css/main.d465f6ed.css.map",
-    "main.355621e1.js.map": "/moto-collision-viz-app/static/js/main.355621e1.js.map",
+    "main.015f3162.css.map": "/moto-collision-viz-app/static/css/main.015f3162.css.map",
+    "main.94a9276d.js.map": "/moto-collision-viz-app/static/js/main.94a9276d.js.map",
     "787.e1c190c3.chunk.js.map": "/moto-collision-viz-app/static/js/787.e1c190c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d465f6ed.css",
-    "static/js/main.355621e1.js"
+    "static/css/main.015f3162.css",
+    "static/js/main.94a9276d.js"
   ]
 }
