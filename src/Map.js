@@ -97,7 +97,7 @@ class Map extends React.Component {
       map.on('click', 'neighborhoods-viz', (e) => {
         map.flyTo({
           center: [e.lngLat.lng, e.lngLat.lat],
-          zoom: 11,
+          zoom: 10,
           pitch: 0,
         });
         if (e.features.length > 0) {
@@ -168,6 +168,9 @@ class Map extends React.Component {
       //   'circle-radius': 3,
       // },
       //   });
+
+      const nav = new mapboxgl.NavigationControl();
+      map.addControl(nav, 'bottom-right');
     });
   }
   render() {

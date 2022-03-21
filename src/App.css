@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.map-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+}
+
 .accident-info {
   position: absolute;
   font-family: sans-serif;
